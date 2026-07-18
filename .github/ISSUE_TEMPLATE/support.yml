@@ -1,0 +1,48 @@
+name: 一眼榴 / Durian Lens Support
+description: 报告问题或咨询产品支持 / Report a problem or ask a support question.
+title: "[Support] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        感谢联系一眼榴支持。GitHub Issues 是公开页面，请勿上传私人照片、联系方式或其他敏感信息。
+
+        Thanks for contacting Durian Lens support. GitHub Issues are public. Do not attach private photos, contact details, or other sensitive information.
+  - type: dropdown
+    id: language
+    attributes:
+      label: Preferred language
+      options:
+        - 中文
+        - English
+        - Other
+    validations:
+      required: true
+  - type: input
+    id: app-version
+    attributes:
+      label: App version
+      placeholder: e.g. 1.0.0 (1)
+    validations:
+      required: true
+  - type: input
+    id: iphone-model
+    attributes:
+      label: iPhone model
+      placeholder: e.g. iPhone 15 Pro
+    validations:
+      required: true
+  - type: input
+    id: ios-version
+    attributes:
+      label: iOS version
+      placeholder: e.g. iOS 26.5
+    validations:
+      required: true
+  - type: textarea
+    id: question
+    attributes:
+      label: What happened?
+      description: Describe the reproduction steps, expected result, and visible result without sharing private content.
+    validations:
+      required: true

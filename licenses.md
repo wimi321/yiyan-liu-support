@@ -12,7 +12,7 @@ permalink: /licenses/
 
 - 项目与权利人：Gemma，Google
 - 应用所用打包版本：`gemma-4-E4B-it.litertlm`
-- 发布来源：[litert-community/gemma-4-E4B-it-litert-lm](https://huggingface.co/litert-community/gemma-4-E4B-it-litert-lm)
+- 发布来源：[litert-community/gemma-4-E4B-it-litert-lm 固定修订](https://huggingface.co/litert-community/gemma-4-E4B-it-litert-lm/tree/f7ad3343bd6ebc9607f4dc3bc4f2398bd5749bc5)
 - 固定来源修订：`f7ad3343bd6ebc9607f4dc3bc4f2398bd5749bc5`
 - 许可：[Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0)
 
@@ -21,9 +21,9 @@ permalink: /licenses/
 ## LiteRT-LM
 
 - 项目与权利人：LiteRT-LM，Google
-- 上游来源：[google-ai-edge/LiteRT-LM](https://github.com/google-ai-edge/LiteRT-LM)
+- 上游源码：[google-ai-edge/LiteRT-LM v0.13.1](https://github.com/google-ai-edge/LiteRT-LM/tree/v0.13.1)
 - Swift 封装源码基础版本：`v0.13.1`（含本应用所需的本地修改，修改文件内有明确标注）
-- 设备端二进制框架版本：`v0.13.0`
+- 设备端二进制框架：[v0.13.0 release](https://github.com/google-ai-edge/LiteRT-LM/releases/tag/v0.13.0)
 - 许可：[Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0)
 
 一眼榴使用 LiteRT-LM 在支持的 Apple 设备上运行本地模型推理。应用所使用的源码副本保留了上游许可声明，并在修改文件中标注了本地变更；Apache License 2.0 的完整文本也随应用提供。

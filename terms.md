@@ -10,6 +10,8 @@ permalink: /terms/
 
 使用一眼榴即表示你理解并同意以下条款。
 
+本页是针对一眼榴功能与责任边界的补充说明。通过 App Store 获得的应用同时适用 Apple 的[标准最终用户许可协议](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/)；如本页与不可排除的适用法律或 Apple 标准许可条款冲突，以后者为准。
+
 ## 工具定位
 
 一眼榴根据普通照片中可见的外观证据提供榴莲选购参考，不是实验室检测、食品安全检验、质量认证或购买保证。应用不能从照片直接测量糖度、干物质、果肉厚度、房数、出肉率、气味或敲击声。
@@ -33,4 +35,3 @@ permalink: /terms/
 ## 支持
 
 如对这些条款有疑问，请通过 [GitHub Issues](https://github.com/wimi321/yiyan-liu-support/issues) 联系。
-
