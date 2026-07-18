@@ -22,10 +22,11 @@ permalink: /licenses/
 
 - 项目与权利人：LiteRT-LM，Google
 - 上游来源：[google-ai-edge/LiteRT-LM](https://github.com/google-ai-edge/LiteRT-LM)
-- Swift 封装来源版本：`v0.13.0`
+- Swift 封装源码基础版本：`v0.13.1`（含本应用所需的本地修改，修改文件内有明确标注）
+- 设备端二进制框架版本：`v0.13.0`
 - 许可：[Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0)
 
-一眼榴使用 LiteRT-LM 在支持的 Apple 设备上运行本地模型推理。应用所使用的源码副本保留了上游许可声明；Apache License 2.0 的完整文本可通过上述许可链接和上游项目查阅。
+一眼榴使用 LiteRT-LM 在支持的 Apple 设备上运行本地模型推理。应用所使用的源码副本保留了上游许可声明，并在修改文件中标注了本地变更；Apache License 2.0 的完整文本也随应用提供。
 
 ## Apache License 2.0 提示
 
