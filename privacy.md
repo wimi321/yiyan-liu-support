@@ -46,4 +46,4 @@ permalink: /privacy/
 
 ## 联系与支持
 
-如有隐私问题，请通过 [GitHub Issues](https://github.com/wimi321/yiyan-liu-support/issues) 联系。提交前请移除任何不必要的个人信息。
+如有隐私问题，请发送邮件至 [281928643@qq.com](mailto:281928643@qq.com)，或通过 [GitHub Issues](https://github.com/wimi321/yiyan-liu-support/issues) 联系。提交前请移除任何不必要的个人信息；GitHub Issues 上的内容会公开显示。

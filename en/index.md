@@ -31,7 +31,7 @@ An ordinary RGB photo cannot directly measure sweetness, dry matter, flesh thick
 
 ## Support
 
-For help or feature suggestions, open an issue on [GitHub Issues](https://github.com/wimi321/yiyan-liu-support/issues). Include your iPhone model, iOS version, app version, and steps to reproduce the problem. Do not post private photos or other sensitive information unless you deliberately want to make them public.
+For app issues, general feedback, or feature suggestions, email [281928643@qq.com](mailto:281928643@qq.com) or open an issue on [GitHub Issues](https://github.com/wimi321/yiyan-liu-support/issues). Include your iPhone model, iOS version, app version, and steps to reproduce the problem. GitHub Issues is public, so do not post private photos or other sensitive information.
 
 - [Privacy Policy](./privacy/)
 - [Terms of Use](./terms/)

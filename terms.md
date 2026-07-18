@@ -34,4 +34,4 @@ permalink: /terms/
 
 ## 支持
 
-如对这些条款有疑问，请通过 [GitHub Issues](https://github.com/wimi321/yiyan-liu-support/issues) 联系。
+如对这些条款有疑问，请发送邮件至 [281928643@qq.com](mailto:281928643@qq.com)，或通过 [GitHub Issues](https://github.com/wimi321/yiyan-liu-support/issues) 联系。

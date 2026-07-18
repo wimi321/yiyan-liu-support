@@ -31,7 +31,7 @@ permalink: /
 
 ## 支持
 
-遇到功能问题或希望提出建议，请前往 [GitHub Issues](https://github.com/wimi321/yiyan-liu-support/issues) 新建问题。请注明 iPhone 型号、iOS 版本、应用版本和复现步骤；请勿提交私人照片或其他敏感信息，除非你明确希望公开它们。
+遇到功能问题、一般反馈或功能建议，可发送邮件至 [281928643@qq.com](mailto:281928643@qq.com)，或前往 [GitHub Issues](https://github.com/wimi321/yiyan-liu-support/issues) 新建问题。请注明 iPhone 型号、iOS 版本、应用版本和复现步骤；GitHub Issues 是公开页面，请勿提交私人照片或其他敏感信息。
 
 - [隐私政策](./privacy/)
 - [使用条款](./terms/)

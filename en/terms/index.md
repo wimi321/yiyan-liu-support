@@ -34,4 +34,4 @@ If these terms change materially, this page will show a revised effective date. 
 
 ## Support
 
-For questions about these terms, contact us through [GitHub Issues](https://github.com/wimi321/yiyan-liu-support/issues).
+For questions about these terms, email [281928643@qq.com](mailto:281928643@qq.com) or contact us through [GitHub Issues](https://github.com/wimi321/yiyan-liu-support/issues).

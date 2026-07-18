@@ -46,4 +46,4 @@ If the app’s data practices change materially, this page will show a revised e
 
 ## Contact and support
 
-For privacy questions, contact us through [GitHub Issues](https://github.com/wimi321/yiyan-liu-support/issues). Remove any unnecessary personal information before submitting an issue.
+For privacy questions, email [281928643@qq.com](mailto:281928643@qq.com) or contact us through [GitHub Issues](https://github.com/wimi321/yiyan-liu-support/issues). Remove unnecessary personal information before contacting us; content posted to GitHub Issues is public.
